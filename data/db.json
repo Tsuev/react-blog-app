@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 0,
+      "title": "Today weather",
+      "body": "Today weather will be able sunny!",
+      "author": "Mansur"
+    },
+    {
+      "title": "Test",
+      "body": "Test",
+      "author": "mario",
+      "id": 1
+    }
+  ]
+}
